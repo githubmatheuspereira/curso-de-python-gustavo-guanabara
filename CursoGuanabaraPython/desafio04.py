@@ -5,4 +5,3 @@ print('\'{}\' é alpha? -'.format(entrada), entrada.isalpha())
 print('\'{}\' é alphanumérico? -'.format(entrada), entrada.isalnum())
 print('\'{}\' é printável? -'.format(entrada), entrada.isprintable())
 print('\'{}\' é decímal? -'.format(entrada), entrada.isdecimal())
-\
