@@ -1,0 +1,5 @@
+km = float(input('Quantos quilômetros você percorreu? '))
+calculoKm = float(km * 0.15)
+dias = int(input('Quantos dias você permaneceu com o carro? '))
+calculoDias = float(dias * 60.00)
+print('Você permaneceu com o carro {} dia(s) = R$ {:.2f}\nRodou {}km(s) com o carro = R$ {:.2f}.\nSeu total a pagar ficou em {:.2f}'.format(dias, calculoDias, km, calculoKm, float(calculoDias + calculoKm)))
