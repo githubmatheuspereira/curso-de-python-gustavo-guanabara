@@ -36,3 +36,6 @@ frase.split()                      -> (divide as palavras (em "memória" diferen
 =>JUNÇÃO
 '-'.join(frase)                    -> (coloca '-' em todos os espaços)
 '''
+frase = 'Curso em Vídeo Python'
+dividido = frase.split()
+print(dividido[2][3])
