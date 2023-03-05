@@ -1,4 +1,4 @@
-# MINHA SOLUÇÃO PARA O DESAFIO 37 PROPOSTO
+# MINHA SOLUÇÃO PARA O DESAFIO 38 PROPOSTO
 
 numero1 = int(input('Escreva o primeiro valor: '))
 numero2 = int(input('Escreva o segundo valor: '))
