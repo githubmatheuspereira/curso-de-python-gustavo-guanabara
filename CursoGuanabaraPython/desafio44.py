@@ -1,4 +1,4 @@
-# MINHA SOLUÇÃO PARA O DESAFIO 43 PROPOSTO
+# MINHA SOLUÇÃO PARA O DESAFIO 44 PROPOSTO
 
 nomeProduto = str(input('Qual o nome do produto?\n'))
 valor = float(input('Qual o valor do produto?\n'))
