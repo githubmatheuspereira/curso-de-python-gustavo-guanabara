@@ -34,9 +34,13 @@ if player1 == player2:
     print('EMPATE!')
 elif player1 == 1 and player2 == 2:
     print('Kenpô GANHOU!')
+elif player1 == 2 and player2 == 3:
+    print('Kenpô GANHOU!')
 elif player1 == 1 and player2 == 3:
     print('{} GANHOU!'.format(nome))
 elif player2 == 1 and player1 == 2:
+    print('{} GANHOU!'.format(nome))
+elif player2 == 2 and player1 == 3:
     print('{} GANHOU!'.format(nome))
 elif player2 == 1 and player1 == 3:
     print('Kenpô GANHOU!')
