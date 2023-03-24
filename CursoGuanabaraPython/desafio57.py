@@ -1,4 +1,4 @@
-# MINHA SOLUÇÃO PARA O DESAFIO 56 PROPOSTO
+# MINHA SOLUÇÃO PARA O DESAFIO 57 PROPOSTO
 
 sexo = ''
 while sexo != 'M' and sexo != 'F' and sexo != 'O':
