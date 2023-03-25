@@ -1,4 +1,4 @@
-# MINHA SOLUÇÃO PARA O DESAFIO 59 PROPOSTO
+# MINHA SOLUÇÃO PARA O DESAFIO 60 PROPOSTO
 
 numero = int(input('Qual será o número?\n'))
 divisor = numero
