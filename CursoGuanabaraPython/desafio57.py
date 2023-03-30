@@ -9,4 +9,6 @@ while sexo != 'M' and sexo != 'F' and sexo != 'O':
         print('Ok, você escolheu o sexo feminino.')
     elif sexo == 'O':
         print('Ok, você não se indentifica como masculino ou feminino.')
+    else:
+        print('ERROR - Siga às instruções.')
 print('Muito obrigado!')
