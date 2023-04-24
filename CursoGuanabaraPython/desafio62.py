@@ -2,7 +2,7 @@
 
 termo = int(input('Qual é o primeiro termo?\n'))
 razao = int(input('Qual é a razão?\n'))
-contador = 1
+contador = 0
 contador2 = 1
 denovo = 1
 print('-'*10,'Resutado abaixo','-'*10)

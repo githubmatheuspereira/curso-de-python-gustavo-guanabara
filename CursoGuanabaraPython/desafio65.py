@@ -20,5 +20,5 @@ while continuar != 'N':
         continuar = str(input('Quer continuar? [S] SIM [N] NÃO\n')).upper()
         if continuar != 'S' and continuar != 'N':
             print('Comando errado, tente novamente!')
-print(menor, maior, total)
+print('O menor valor foi {}\nO maior valor foi {}\nA soma dos valores foi {}'.format(menor, maior, total))
         

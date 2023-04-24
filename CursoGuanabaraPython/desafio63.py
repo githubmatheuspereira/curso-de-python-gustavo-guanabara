@@ -17,3 +17,4 @@ else:
         numeroAnterior = numeroAtual
         numeroAtual = fibonacci
         print(fibonacci)
+

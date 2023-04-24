@@ -11,4 +11,4 @@ while numero != 999:
         total += numero
         numero = 0
     contador += 1
-print('Tivemos {} numeros digitados e o total deles é {}'.format(contador, total))
+print('Tivemos {} numeros digitados e o total deles é {}'.format(contador - 1, total))
