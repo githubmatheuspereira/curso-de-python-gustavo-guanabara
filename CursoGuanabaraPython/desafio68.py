@@ -1,4 +1,4 @@
-# MINHA SOLUÇÃO PARA O DESAFIO 67 PROPOSTO
+# MINHA SOLUÇÃO PARA O DESAFIO 68 PROPOSTO
 from time import sleep
 from random import randint
 jogoGanho = 0
